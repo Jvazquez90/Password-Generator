@@ -3,6 +3,8 @@ An application created with modified code that enables employees to generate ran
 
 The password can include Uppercase letters, lowercase letters, numbers and special characters.
 
+![Password-Generator](Assets/Images/Screenshot.png)
+
 ## This Project Uses:
 --------
 
